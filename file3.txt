@@ -1,5 +1,9 @@
 Este é o exemplo de um ficheiro de texto file3
 
-Linhas acrescentadas ao ficheiro
+<h2>Bebidas</h2>
 
-Adicionei esta linha
+<ul>
+   <li>Coffee</li>
+   <li>Tea</li>
+   <li>Milk</li>
+</ul>
